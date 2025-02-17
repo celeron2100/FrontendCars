@@ -1,0 +1,24 @@
+{
+    "name": "celeron2100/frontendcars",
+    "description": "",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Justin C.",
+            "email": "celeron2100@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "FrontendCars\\": ""
+        }
+    }
+}
